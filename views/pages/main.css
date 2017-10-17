@@ -1,0 +1,21 @@
+nav {
+  float: left;
+}
+
+header {
+  text-align: center;
+}
+
+.main-section {
+  margin-left: 130px;
+}
+
+nav ul {
+  padding-left: 20px;
+}
+
+@media (max-width:800px) {
+  nav ul {
+    padding-left: 10px !important;
+  }
+}
