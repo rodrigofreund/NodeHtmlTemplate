@@ -14,6 +14,26 @@ nav ul {
   padding-left: 20px;
 }
 
+.equacao-box {
+  text-align: center;
+}
+
+.equacao {
+  text-align: center;
+  border: 1px double;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  font-size: 140%;
+}
+
+.equacao-note {
+  width: 30%;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 100%;
+}
+
 @media (max-width:800px) {
   nav ul {
     padding-left: 10px !important;
